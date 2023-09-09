@@ -1,0 +1,3 @@
+[submodule "models/esrgan"]
+	path = models/esrgan
+	url = https://github.com/Lornatang/ESRGAN-PyTorch.git
